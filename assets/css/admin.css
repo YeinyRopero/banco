@@ -1,0 +1,13 @@
+div#welcome{
+  margin-top: 70px;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  font-size: 70px;
+}
+
+div#nombre{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 30px;
+}

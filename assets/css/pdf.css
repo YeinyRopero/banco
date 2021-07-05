@@ -1,0 +1,338 @@
+div	{
+  border: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+div#global{
+	width: 930px;
+	height: 670px;
+	margin: auto;
+	
+}
+div#marco{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+	width: 900px;
+	height: 670px;
+	margin: auto;	
+}
+div#header{
+  margin-top: 15px;
+  width: 898px;
+  height: 80px;
+  text-align: center;
+  font-size: 15px;
+}
+div#header2{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  width: 898px;
+  height: 13px;
+ 
+}
+div#pys{
+  margin-top: 10px;
+  width: 898px;
+  height: 20px;
+  text-align: center;
+  font-size: 17px;
+}
+div#info{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  margin-top: 10px;
+  width: 900px;
+  height: 100px;
+}
+
+div#info1{
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  float:left;  
+  width: 140px;
+  height: 100px;
+}
+div#form1{
+  float:left;  
+  width: 139px;
+  height: 101px;
+
+}
+div#formacion{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+  float:left; 
+  text-align: center;
+  font-size: 14px; 
+  width: 140px;
+  height: 18px;
+
+}
+div#fornN{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  margin-top: 27px;
+  text-align: center;  
+  width: 140px;
+  height: 20px;
+
+}
+div#info12{ 
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style:solid;
+  border-left-style: solid; 
+  width: 140px;
+  height: 24px;
+  font-size: 13px;
+}
+
+div#nombre{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  text-align: center;
+  float: left;
+  width: 480px;
+  height: 24px;
+}
+div#doc{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  float: left;
+  width: 100px;
+  height: 24px;
+  text-align: center;
+  font-size: 13px;
+}
+div#doc1{
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  float: left;
+  width: 100px;
+  height: 24px;
+  text-align: center;
+  font-size: 13px;
+}
+div#docValor{
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  text-align: center;
+  float: left;
+  width: 159px;
+  height: 24px;
+}
+div#docValor1{
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  text-align: center;
+  float: left;
+  width: 159px;
+  height: 24px;
+}
+div#espacio{
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: none;
+  text-align: center;
+  float: left;
+  width: 299px;
+  height: 24px;
+}
+
+div#nombre1{
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  text-align: center;
+  float: left;
+  width: 480px;
+  height: 24px;
+}
+
+
+
+div#opcion{
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  float: left;
+  text-align: center;
+  font-size: 13px;
+  width: 70px;
+  height: 24px;
+}
+div#opcion2{
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: none;
+  float: left;
+  text-align: center;
+  font-size: 13px;
+  width: 70px;
+  height: 24px;
+}
+
+
+div#info2{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  float:left;  
+  margin-left: 15px;
+  width: 745px;
+  height: 100px;
+}
+div#form{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  margin-top: 15px;
+  width: 900px;
+  height: 100px;
+}
+div#formacion2{
+  border-top-style: solid;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style: solid;
+  float:left;  
+  width: 741px;
+  height: 18px;
+}
+div#formacion3{
+  border-top-style: none;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style: none;
+  float:left;  
+  font-size: 11px;
+  width: 670px;
+  height: 16px;
+}
+div#espacio2{
+  border-top-style:none;
+  border-right-style: solid;
+  border-bottom-style:solid;
+  border-left-style: solid;
+  float:left;  
+  width: 70px;
+  height: 16px;
+}
+
+
+div#form2{
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  float:left;  
+  margin-left: 14px;
+  width: 745px;
+  height: 100px;
+}
+
+div#firma{ 
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: solid;
+  margin-top: 15px;
+  width: 900px;
+  height: 140px;
+}
+
+div#firma1{
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: none;
+  float:left;
+  width: 89px;
+  height: 140px;
+}
+div#firma2{
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: none;
+  float:left;
+  width: 87px;
+  height: 140px;
+}
+
+div#coment{ 
+  margin-top: 10px;
+  width: 900px;
+  height: 15px;
+  text-align: center;
+  font-size:12px;
+}
+div#footer{ 
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  margin-top: 90px;
+  width: 900px;
+  height: 20px;
+
+}
+div#blabla{ 
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  float: left;
+  width: 620px;
+  height: 20px;
+  text-align: center;
+  font-size:12px;
+}
+div#firmaAPR{
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style:none;
+  float: left; 
+  width: 274px;
+  height: 20px;
+  text-align: center;
+  font-size:12px;
+}
+
+
+
+
+
+

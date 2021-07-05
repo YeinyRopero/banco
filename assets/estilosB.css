@@ -1,0 +1,21 @@
+
+  .btn-i,
+  .btn-i:hover
+  .btn-i:active{ background: #00897B; }
+
+  .btn-m,
+  .btn-m:hover
+  .btn-m:active{ background: #F58806; }
+
+  .btn-e,
+  .btn-e:hover
+  .btn-e:active{ background: #B00A0A; }
+
+    .btn-a,
+  .btn-a:hover
+  .btn-a:active{ background: #D7E2ED; }
+
+  #login {color: #FFFFFF;}
+  #blanco {color: #FFFFFF;}
+  #boton {color: #FFFFFF;}
+
